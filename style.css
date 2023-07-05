@@ -1,0 +1,101 @@
+body{
+    font-family: 'Varela Round';
+    background-image: url(./background.jpg);
+    
+}
+
+.topSection{
+    width: auto;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px;
+}
+
+.headerDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: auto;
+    
+}
+
+h1{
+    font-size: 50px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 10px;
+    color: black;
+    font-weight:900;
+    background-color: rgb(226, 226, 226);
+    border-radius: 10px ;
+    
+   
+
+}
+
+.bottomSection{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 150px;
+    padding: 0px 100px ;
+}   
+
+.toolDiv{
+    margin: 0px 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 10px;
+    width: 120px;
+    height: 200px;
+    background-color: rgb(251, 255, 203);
+    border-radius: 10px ;
+}
+
+
+
+button{
+    height: auto;
+    width: auto;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+.canvassDiv{
+    height: auto;
+    width: auto;
+    border-style: solid;
+    padding: 20px;
+    border-radius: 50px;
+    display:grid;
+    background-color: white;
+    box-shadow: 0 0 10px 5px #ebf3d0,
+              0 0 20px 7px #dddfa6,
+              0 0 25px 20px #dbd6df,
+              0 0 30px 25px #bdb3b8;
+}
+
+.divPixel{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    height: 20px;
+    width: 20px;
+    margin:.5px;
+    text-align: center;
+    
+}
+
+
