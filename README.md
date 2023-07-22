@@ -1,5 +1,5 @@
 # TOP-Etch-a-Sketch
-This is a Javascript project from The Odin Project
+This is a Javascript project I made during my The Odin Project Course
 
 The HTML structure was built using DOM
 
