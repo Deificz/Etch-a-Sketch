@@ -59,7 +59,7 @@ buttonRandom.innerHTML = `<i class="fa-solid fa-circle"></i>`;
 
 body.appendChild(sectionFooter);
 sectionFooter.appendChild(footerName);
-footerName.innerHTML = `© Aeron Brylle Lazo`;
+footerName.innerHTML = `© Deificz`;
 
 //Main
 document.addEventListener("DOMContentLoaded", function(){
