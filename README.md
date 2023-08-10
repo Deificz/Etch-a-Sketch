@@ -1,7 +1,10 @@
-# TOP-Etch-a-Sketch
-This is a Javascript project I made during my The Odin Project Course
+#Etch-a-Sketch
+A web based etch-a-sketch board
 
-The HTML structure was built purely using HTML DOM
+Tech stack used:
+  -  HTML
+  -  CSS
+  -  Vanilla JavaScript
 
-The background image used was retrieved from Google images
+
 
