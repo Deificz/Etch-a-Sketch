@@ -6,5 +6,5 @@ Tech stack used:
   -  CSS
   -  Vanilla JavaScript
 
-
+**Live preview:** https://deificz.github.io/Etch-a-Sketch/
 
